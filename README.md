@@ -101,7 +101,7 @@ The layout:
 ### Submission Details
 
 - **Hosted Link**: [Hosted Link](#)
-- **GitHub Repo**: [https://github.com/EmmaAtom00/frontend-wizards-profile_card]
+- **GitHub Repo**: https://github.com/EmmaAtom00/frontend-wizards-profile_card
 ---
 
 ## Author
@@ -113,4 +113,5 @@ Email: [emmanuelmark501@gmail.com](mailto:emmanuelmark501@gmail.com)
 Feel free to reach out for questions, feedback, or collaboration!
 
 ---
+
 
