@@ -100,7 +100,7 @@ The layout:
 
 ### Submission Details
 
-- **Hosted Link**: [Hosted Link](#)
+- **Hosted Link**: [Hosted Link](https://emmaatom00.github.io/frontend-wizards-profile_card/)
 - **GitHub Repo**: https://github.com/EmmaAtom00/frontend-wizards-profile_card
 ---
 
