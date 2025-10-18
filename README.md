@@ -4,7 +4,7 @@ A simple, responsive, and accessible **Profile Card** built with semantic HTML, 
 
 ### Live Demo
 
-[ View Live Project](#)
+[ View Live Project](https://emmaatom00.github.io/frontend-wizards-profile_card/)
 
 ---
 
@@ -102,6 +102,7 @@ The layout:
 
 - **Hosted Link**: [Hosted Link](https://emmaatom00.github.io/frontend-wizards-profile_card/)
 - **GitHub Repo**: https://github.com/EmmaAtom00/frontend-wizards-profile_card
+
 ---
 
 ## Author
@@ -113,5 +114,3 @@ Email: [emmanuelmark501@gmail.com](mailto:emmanuelmark501@gmail.com)
 Feel free to reach out for questions, feedback, or collaboration!
 
 ---
-
-
